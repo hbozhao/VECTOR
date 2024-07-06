@@ -1,15 +1,3 @@
-%functions to include in the folder:
-% condensate_substrate
-% solver_FDCH
-% solverParser
-% condensate_substrate_pp (done)
-% droppullet_package (done)
-% Flory_Huggins_setup (done)
-% phaseEqm (done)
-% reaction (done)
-% makegrid (done)
-
-
 %A wrapper function to conduct phase field simulations in the VECTOR paper
 run_base_case = false;
 run_study = true; %perform simulations
